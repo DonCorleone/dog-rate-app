@@ -1,0 +1,1678 @@
+{
+  "version": "6.0",
+  "nxVersion": "20.3.2",
+  "pathMappings": {
+    "@doggo-rating/about/feature": [
+      "libs/about/feature/src/index.ts"
+    ],
+    "@doggo-rating/auth/api": [
+      "libs/auth/api/src/index.ts"
+    ],
+    "@doggo-rating/auth/state": [
+      "libs/auth/state/src/index.ts"
+    ],
+    "@doggo-rating/auth/ui": [
+      "libs/auth/ui/src/index.ts"
+    ],
+    "@doggo-rating/auth/util": [
+      "libs/auth/util/src/index.ts"
+    ],
+    "@doggo-rating/doggos/domain": [
+      "libs/doggos/domain/src/index.ts"
+    ],
+    "@doggo-rating/doggos/feature": [
+      "libs/doggos/feature/src/index.ts"
+    ],
+    "@doggo-rating/doggos/ui": [
+      "libs/doggos/ui/src/index.ts"
+    ],
+    "@doggo-rating/shared/about/feature": [
+      "libs/shared/about/feature/src/index.ts"
+    ],
+    "@doggo-rating/shared/ui-common": [
+      "libs/shared/ui-common/src/index.ts"
+    ],
+    "@doggo-rating/shared/util-auth": [
+      "libs/shared/util-auth/src/index.ts"
+    ],
+    "@doggo-rating/shared/util-camera": [
+      "libs/shared/util-camera/src/index.ts"
+    ],
+    "@doggo-rating/shared/util-common": [
+      "libs/shared/util-common/src/index.ts"
+    ],
+    "@doggo-rating/shared/util-environments": [
+      "libs/shared/util-environments/src/index.ts"
+    ],
+    "@doggo-rating/shared/util-notification": [
+      "libs/shared/util-notification/src/index.ts"
+    ],
+    "@doggo-rating/shared/util-platform-information": [
+      "libs/shared/util-platform-information/src/index.ts"
+    ],
+    "@doggo-rating/shared/util-real-time": [
+      "libs/shared/util-real-time/src/index.ts"
+    ],
+    "container": [
+      "libs/about2/container/src/index.ts"
+    ]
+  },
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "nonProjectFiles": [
+      {
+        "file": "android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml",
+        "hash": "4016059711077230768"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png",
+        "hash": "14932277127214378837"
+      },
+      {
+        "file": "assets/img/splash.png",
+        "hash": "260098594720989206"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "200405160798019318"
+      },
+      {
+        "file": "README.md",
+        "hash": "16410066512297126762"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-land-night-xxhdpi/splash.png",
+        "hash": "9701890839016682492"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-port-xxhdpi/splash.png",
+        "hash": "17635815191597386056"
+      },
+      {
+        "file": "migrations.json",
+        "hash": "10584036390317059088"
+      },
+      {
+        "file": "android/app/src/main/res/values/strings.xml",
+        "hash": "11089923824388206807"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-land-night-xhdpi/splash.png",
+        "hash": "6586518666837201823"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-land-night-hdpi/splash.png",
+        "hash": "2193564078274771756"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-land-hdpi/splash.png",
+        "hash": "3277466464978319744"
+      },
+      {
+        "file": "jest.preset.js",
+        "hash": "15933700438855501979"
+      },
+      {
+        "file": "android/variables.gradle",
+        "hash": "13536257192941211668"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-land-mdpi/splash.png",
+        "hash": "17996344778610529763"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-port-night-hdpi/splash.png",
+        "hash": "5516980615011689243"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-land-xxxhdpi/splash.png",
+        "hash": "13883151143497958524"
+      },
+      {
+        "file": "package.json",
+        "hash": "12585066271315697916"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png",
+        "hash": "6462834784774728585"
+      },
+      {
+        "file": "android/capacitor.settings.gradle",
+        "hash": "18039607224944366655"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-port-night-xxhdpi/splash.png",
+        "hash": "9574444084543014012"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-land-xxhdpi/splash.png",
+        "hash": "13588121900995883792"
+      },
+      {
+        "file": ".prettierignore",
+        "hash": "10518712868617079728"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-night/splash.png",
+        "hash": "252946930725308937"
+      },
+      {
+        "file": "apps/.gitkeep",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "libs/.gitkeep",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "android/app/src/main/AndroidManifest.xml",
+        "hash": "9842914046330633651"
+      },
+      {
+        "file": "tools/tsconfig.tools.json",
+        "hash": "16088922570277978783"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-port-night-ldpi/splash.png",
+        "hash": "4304114066217770379"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-port-xxxhdpi/splash.png",
+        "hash": "1776300441506254314"
+      },
+      {
+        "file": "assets/desktop/main.js",
+        "hash": "10058567138840780936"
+      },
+      {
+        "file": "nx.json",
+        "hash": "15268791325151773489"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-mdpi/ic_launcher.png",
+        "hash": "6912301675427301347"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "2742944017316756015"
+      },
+      {
+        "file": "android/app/src/main/res/drawable/splash.png",
+        "hash": "15047733975463781834"
+      },
+      {
+        "file": "assets/img/icon.png",
+        "hash": "15466354893492174896"
+      },
+      {
+        "file": "android/gradlew.bat",
+        "hash": "4148442249581167124"
+      },
+      {
+        "file": "android/gradle/wrapper/gradle-wrapper.jar",
+        "hash": "17111259880925534468"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-land-night-ldpi/splash.png",
+        "hash": "252946930725308937"
+      },
+      {
+        "file": "jest.config.ts",
+        "hash": "3494843969422251966"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-land-ldpi/splash.png",
+        "hash": "736885603442515267"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png",
+        "hash": "12028465889414566025"
+      },
+      {
+        "file": "assets/desktop/trayIcon.js",
+        "hash": "12443998011639955045"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-port-ldpi/splash.png",
+        "hash": "2327514619761974885"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-port-hdpi/splash.png",
+        "hash": "1639465765662328568"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png",
+        "hash": "5793850724717357899"
+      },
+      {
+        "file": "android/app/proguard-rules.pro",
+        "hash": "16319704539319765030"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-hdpi/ic_launcher_background.png",
+        "hash": "14960458069173180910"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml",
+        "hash": "4016059711077230768"
+      },
+      {
+        "file": ".editorconfig",
+        "hash": "5443105041930014821"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png",
+        "hash": "10944217894435460579"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-hdpi/ic_launcher.png",
+        "hash": "3517261164316956883"
+      },
+      {
+        "file": "android/settings.gradle",
+        "hash": "426215723856156424"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png",
+        "hash": "1408754157318599655"
+      },
+      {
+        "file": ".eslintrc.json",
+        "hash": "9222955370889692529"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png",
+        "hash": "9273530548591852684"
+      },
+      {
+        "file": "android/gradle/wrapper/gradle-wrapper.properties",
+        "hash": "17751202352695568690"
+      },
+      {
+        "file": "android/app/.gitignore",
+        "hash": "3800628318224317187"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-port-night-xxxhdpi/splash.png",
+        "hash": "14505892852901603911"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-ldpi/ic_launcher.png",
+        "hash": "15914111718136330003"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-port-night-xhdpi/splash.png",
+        "hash": "4359691110371204420"
+      },
+      {
+        "file": "build/build-mobile.js",
+        "hash": "5859124458887712468"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-land-night-xxxhdpi/splash.png",
+        "hash": "2393414478428149605"
+      },
+      {
+        "file": "tools/create-overall-coverage.js",
+        "hash": "16729783211837109162"
+      },
+      {
+        "file": "tsconfig.base.json",
+        "hash": "2502643779865199390"
+      },
+      {
+        "file": "android/app/src/androidTest/java/com/getcapacitor/myapp/ExampleInstrumentedTest.java",
+        "hash": "1280125089554780403"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png",
+        "hash": "10024242672121191119"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
+        "hash": "16797031448130166890"
+      },
+      {
+        "file": ".prettierrc",
+        "hash": "16267754514737964994"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+        "hash": "17421316347341444270"
+      },
+      {
+        "file": "android/gradlew",
+        "hash": "4004713095611155780"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-land-night-mdpi/splash.png",
+        "hash": "10001677304102630707"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-mdpi/ic_launcher_background.png",
+        "hash": "15761025599309361892"
+      },
+      {
+        "file": "assets/desktop/icon.ico",
+        "hash": "11001983438240268328"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_background.png",
+        "hash": "14702898030906596372"
+      },
+      {
+        "file": "android/app/src/main/res/values/ic_launcher_background.xml",
+        "hash": "9482601953118464086"
+      },
+      {
+        "file": "build/build-desktop.js",
+        "hash": "17248791713282813283"
+      },
+      {
+        "file": "android/app/src/main/res/values/styles.xml",
+        "hash": "17918612613785874663"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png",
+        "hash": "1653956924139871899"
+      },
+      {
+        "file": "android/app/src/test/java/com/getcapacitor/myapp/ExampleUnitTest.java",
+        "hash": "11856600006954306230"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+        "hash": "10221496912578018007"
+      },
+      {
+        "file": "android/app/capacitor.build.gradle",
+        "hash": "5987221901768948876"
+      },
+      {
+        "file": "capacitor.config.ts",
+        "hash": "16474573040815747716"
+      },
+      {
+        "file": "android/app/src/main/res/layout/activity_main.xml",
+        "hash": "13540211242698942768"
+      },
+      {
+        "file": "assets/desktop/package.json",
+        "hash": "1086082447455785712"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-ldpi/ic_launcher_background.png",
+        "hash": "16256434324900665432"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml",
+        "hash": "16602625396055746895"
+      },
+      {
+        "file": "android/.gitignore",
+        "hash": "16088808965373471785"
+      },
+      {
+        "file": "android/build.gradle",
+        "hash": "13368873398226471476"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-ldpi/ic_launcher_foreground.png",
+        "hash": "12557703620883820228"
+      },
+      {
+        "file": ".eslintignore",
+        "hash": "7663861978715868291"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-xhdpi/ic_launcher_background.png",
+        "hash": "3225672529753196792"
+      },
+      {
+        "file": "assets/desktop/preload.js",
+        "hash": "88695614133746385"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png",
+        "hash": "17053276050061474566"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-ldpi/ic_launcher_round.png",
+        "hash": "16062260860970032269"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-port-night-mdpi/splash.png",
+        "hash": "1376723698028696611"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-land-xhdpi/splash.png",
+        "hash": "9733297207876551486"
+      },
+      {
+        "file": "android/app/build.gradle",
+        "hash": "3946641142560170331"
+      },
+      {
+        "file": "android/app/src/main/res/drawable/ic_launcher_background.xml",
+        "hash": "4055909962711590499"
+      },
+      {
+        "file": "android/app/src/main/res/xml/file_paths.xml",
+        "hash": "14753087816109454837"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-xxhdpi/ic_launcher_background.png",
+        "hash": "4693768799652485283"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-port-xhdpi/splash.png",
+        "hash": "13587183364265075932"
+      },
+      {
+        "file": "android/app/src/main/java/com/example/app/MainActivity.java",
+        "hash": "5329076503082687980"
+      },
+      {
+        "file": "android/gradle.properties",
+        "hash": "3700092993974969764"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-port-mdpi/splash.png",
+        "hash": "15047733975463781834"
+      }
+    ],
+    "projectFileMap": {
+      "shared-util-common": [
+        {
+          "file": "libs/shared/util-common/.eslintrc.json",
+          "hash": "15531560297735247660"
+        },
+        {
+          "file": "libs/shared/util-common/README.md",
+          "hash": "4056659762148370766"
+        },
+        {
+          "file": "libs/shared/util-common/jest.config.ts",
+          "hash": "4935395818057778561"
+        },
+        {
+          "file": "libs/shared/util-common/project.json",
+          "hash": "507311316675994337"
+        },
+        {
+          "file": "libs/shared/util-common/src/index.ts",
+          "hash": "2304722490980190812"
+        },
+        {
+          "file": "libs/shared/util-common/src/lib/http/http.service.ts",
+          "hash": "12386564857794360428",
+          "deps": [
+            "npm:@angular/common",
+            "npm:@angular/core",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "libs/shared/util-common/src/test-setup.ts",
+          "hash": "17711435995618823417",
+          "deps": [
+            "npm:jest-preset-angular"
+          ]
+        },
+        {
+          "file": "libs/shared/util-common/tsconfig.json",
+          "hash": "8526453262384300416"
+        },
+        {
+          "file": "libs/shared/util-common/tsconfig.lib.json",
+          "hash": "9558018702647581490"
+        },
+        {
+          "file": "libs/shared/util-common/tsconfig.spec.json",
+          "hash": "4003217966072204204"
+        }
+      ],
+      "shared-util-environments": [
+        {
+          "file": "libs/shared/util-environments/.eslintrc.json",
+          "hash": "17966569826371688918"
+        },
+        {
+          "file": "libs/shared/util-environments/README.md",
+          "hash": "1589050181971522613"
+        },
+        {
+          "file": "libs/shared/util-environments/jest.config.ts",
+          "hash": "13840302913378277764"
+        },
+        {
+          "file": "libs/shared/util-environments/project.json",
+          "hash": "10079058232488107196"
+        },
+        {
+          "file": "libs/shared/util-environments/src/index.ts",
+          "hash": "17629727789544416765"
+        },
+        {
+          "file": "libs/shared/util-environments/src/lib/environment.prod.ts",
+          "hash": "176952497905361682"
+        },
+        {
+          "file": "libs/shared/util-environments/src/lib/environment.ts",
+          "hash": "17329629289943589144"
+        },
+        {
+          "file": "libs/shared/util-environments/src/test-setup.ts",
+          "hash": "17711435995618823417",
+          "deps": [
+            "npm:jest-preset-angular"
+          ]
+        },
+        {
+          "file": "libs/shared/util-environments/tsconfig.json",
+          "hash": "8526453262384300416"
+        },
+        {
+          "file": "libs/shared/util-environments/tsconfig.lib.json",
+          "hash": "9558018702647581490"
+        },
+        {
+          "file": "libs/shared/util-environments/tsconfig.spec.json",
+          "hash": "4003217966072204204"
+        }
+      ],
+      "doggo-rating-app-e2e": [
+        {
+          "file": "apps/doggo-rating-app-e2e/.eslintrc.json",
+          "hash": "15523834149352881398"
+        },
+        {
+          "file": "apps/doggo-rating-app-e2e/cypress.config.ts",
+          "hash": "15414076024138857470",
+          "deps": [
+            "npm:cypress",
+            "npm:@nx/cypress"
+          ]
+        },
+        {
+          "file": "apps/doggo-rating-app-e2e/project.json",
+          "hash": "18439225467741463440"
+        },
+        {
+          "file": "apps/doggo-rating-app-e2e/src/e2e/app.cy.ts",
+          "hash": "16655109274216376905"
+        },
+        {
+          "file": "apps/doggo-rating-app-e2e/src/fixtures/example.json",
+          "hash": "11614668686582597233"
+        },
+        {
+          "file": "apps/doggo-rating-app-e2e/src/support/app.po.ts",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/doggo-rating-app-e2e/src/support/commands.ts",
+          "hash": "7314691991044890572"
+        },
+        {
+          "file": "apps/doggo-rating-app-e2e/src/support/e2e.ts",
+          "hash": "3666078656922506009"
+        },
+        {
+          "file": "apps/doggo-rating-app-e2e/tsconfig.json",
+          "hash": "3839629211904585536"
+        }
+      ],
+      "about-feature": [
+        {
+          "file": "libs/about/feature/.eslintrc.json",
+          "hash": "5653751735942335923"
+        },
+        {
+          "file": "libs/about/feature/README.md",
+          "hash": "18016577843937623230"
+        },
+        {
+          "file": "libs/about/feature/jest.config.ts",
+          "hash": "2228493026930223328"
+        },
+        {
+          "file": "libs/about/feature/project.json",
+          "hash": "16964681337110682311"
+        },
+        {
+          "file": "libs/about/feature/src/index.ts",
+          "hash": "12827487831910865157"
+        },
+        {
+          "file": "libs/about/feature/src/lib/about-routes.ts",
+          "hash": "9564949859899946998",
+          "deps": [
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "libs/about/feature/src/lib/about/about.component.html",
+          "hash": "12603928761787721140"
+        },
+        {
+          "file": "libs/about/feature/src/lib/about/about.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "libs/about/feature/src/lib/about/about.component.spec.ts",
+          "hash": "5010515190374492576",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/about/feature/src/lib/about/about.component.ts",
+          "hash": "14331221542740186888",
+          "deps": [
+            "npm:@angular/common",
+            "npm:@angular/core",
+            "npm:@capacitor/device"
+          ]
+        },
+        {
+          "file": "libs/about/feature/src/test-setup.ts",
+          "hash": "17711435995618823417",
+          "deps": [
+            "npm:jest-preset-angular"
+          ]
+        },
+        {
+          "file": "libs/about/feature/tsconfig.json",
+          "hash": "8526453262384300416"
+        },
+        {
+          "file": "libs/about/feature/tsconfig.lib.json",
+          "hash": "9558018702647581490"
+        },
+        {
+          "file": "libs/about/feature/tsconfig.spec.json",
+          "hash": "4003217966072204204"
+        }
+      ],
+      "doggos-domain": [
+        {
+          "file": "libs/doggos/domain/.eslintrc.json",
+          "hash": "15531560297735247660"
+        },
+        {
+          "file": "libs/doggos/domain/README.md",
+          "hash": "13075450531175979629"
+        },
+        {
+          "file": "libs/doggos/domain/jest.config.ts",
+          "hash": "1662148220157615777"
+        },
+        {
+          "file": "libs/doggos/domain/project.json",
+          "hash": "4931228740064105400"
+        },
+        {
+          "file": "libs/doggos/domain/src/index.ts",
+          "hash": "2943991526394571421"
+        },
+        {
+          "file": "libs/doggos/domain/src/lib/models/doggo.ts",
+          "hash": "1564608058165584072"
+        },
+        {
+          "file": "libs/doggos/domain/src/lib/services/doggos-api.service.ts",
+          "hash": "7989893478047322729",
+          "deps": [
+            "npm:@angular/core",
+            "shared-util-common",
+            "shared-util-environments",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "libs/doggos/domain/src/lib/services/signalr.service.ts",
+          "hash": "17599976826139853046",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@microsoft/signalr",
+            "shared-util-environments",
+            "npm:rxjs",
+            "shared-util-real-time"
+          ]
+        },
+        {
+          "file": "libs/doggos/domain/src/lib/services/upload.service.ts",
+          "hash": "9516054421218156305",
+          "deps": [
+            "npm:@angular/core",
+            "shared-util-environments",
+            "shared-util-common",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "libs/doggos/domain/src/lib/state/doggos.state.ts",
+          "hash": "8951937549225096348",
+          "deps": [
+            "npm:@ngrx/signals",
+            "npm:@angular/core",
+            "npm:@angular/router",
+            "npm:@ngrx/operators",
+            "shared-util-notification",
+            "npm:rxjs",
+            "shared-util-auth"
+          ]
+        },
+        {
+          "file": "libs/doggos/domain/src/test-setup.ts",
+          "hash": "17711435995618823417",
+          "deps": [
+            "npm:jest-preset-angular"
+          ]
+        },
+        {
+          "file": "libs/doggos/domain/tsconfig.json",
+          "hash": "7456533757968056189"
+        },
+        {
+          "file": "libs/doggos/domain/tsconfig.lib.json",
+          "hash": "9558018702647581490"
+        },
+        {
+          "file": "libs/doggos/domain/tsconfig.spec.json",
+          "hash": "4003217966072204204"
+        }
+      ],
+      "doggos-feature": [
+        {
+          "file": "libs/doggos/feature/.eslintrc.json",
+          "hash": "15531560297735247660"
+        },
+        {
+          "file": "libs/doggos/feature/README.md",
+          "hash": "8763796007145741498"
+        },
+        {
+          "file": "libs/doggos/feature/jest.config.ts",
+          "hash": "9150887052166771544"
+        },
+        {
+          "file": "libs/doggos/feature/project.json",
+          "hash": "8560909426836446054"
+        },
+        {
+          "file": "libs/doggos/feature/src/index.ts",
+          "hash": "9724166533094455863"
+        },
+        {
+          "file": "libs/doggos/feature/src/lib/add-doggo/add-doggo.component.html",
+          "hash": "17669176429957146193"
+        },
+        {
+          "file": "libs/doggos/feature/src/lib/add-doggo/add-doggo.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "libs/doggos/feature/src/lib/add-doggo/add-doggo.component.spec.ts",
+          "hash": "9942819122089167914",
+          "deps": [
+            "npm:@angular/core",
+            "npm:ng-mocks",
+            "doggos-domain",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "libs/doggos/feature/src/lib/add-doggo/add-doggo.component.ts",
+          "hash": "11795662719526571320",
+          "deps": [
+            "npm:@angular/core",
+            "doggos-domain",
+            "doggos-ui"
+          ]
+        },
+        {
+          "file": "libs/doggos/feature/src/lib/doggo-detail/doggo-detail.component.html",
+          "hash": "4178568162999933372"
+        },
+        {
+          "file": "libs/doggos/feature/src/lib/doggo-detail/doggo-detail.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "libs/doggos/feature/src/lib/doggo-detail/doggo-detail.component.spec.ts",
+          "hash": "8668347831511104065",
+          "deps": [
+            "npm:@angular/core",
+            "npm:ng-mocks",
+            "doggos-domain"
+          ]
+        },
+        {
+          "file": "libs/doggos/feature/src/lib/doggo-detail/doggo-detail.component.ts",
+          "hash": "7352320554654563497",
+          "deps": [
+            "npm:@angular/common",
+            "npm:@angular/core",
+            "npm:@angular/router",
+            "doggos-domain"
+          ]
+        },
+        {
+          "file": "libs/doggos/feature/src/lib/doggos-routes.ts",
+          "hash": "10195891571540993344",
+          "deps": [
+            "npm:@angular/router",
+            "shared-util-auth"
+          ]
+        },
+        {
+          "file": "libs/doggos/feature/src/lib/main-doggo/main-doggo.component.html",
+          "hash": "9933074847405839200"
+        },
+        {
+          "file": "libs/doggos/feature/src/lib/main-doggo/main-doggo.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "libs/doggos/feature/src/lib/main-doggo/main-doggo.component.spec.ts",
+          "hash": "454999950262559472",
+          "deps": [
+            "npm:@angular/core",
+            "npm:ng-mocks",
+            "doggos-domain",
+            "doggos-ui",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "libs/doggos/feature/src/lib/main-doggo/main-doggo.component.ts",
+          "hash": "9956200304675424482",
+          "deps": [
+            "npm:@angular/core",
+            "doggos-domain",
+            "doggos-ui",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "libs/doggos/feature/src/lib/my-doggos/my-doggos.component.html",
+          "hash": "5781895132723978658"
+        },
+        {
+          "file": "libs/doggos/feature/src/lib/my-doggos/my-doggos.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "libs/doggos/feature/src/lib/my-doggos/my-doggos.component.spec.ts",
+          "hash": "10785144887896468599",
+          "deps": [
+            "npm:@angular/core",
+            "npm:ng-mocks",
+            "doggos-domain",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "libs/doggos/feature/src/lib/my-doggos/my-doggos.component.ts",
+          "hash": "13011092223946708982",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/router",
+            "doggos-domain",
+            "doggos-ui"
+          ]
+        },
+        {
+          "file": "libs/doggos/feature/src/test-setup.ts",
+          "hash": "17711435995618823417",
+          "deps": [
+            "npm:jest-preset-angular"
+          ]
+        },
+        {
+          "file": "libs/doggos/feature/tsconfig.json",
+          "hash": "7456533757968056189"
+        },
+        {
+          "file": "libs/doggos/feature/tsconfig.lib.json",
+          "hash": "9558018702647581490"
+        },
+        {
+          "file": "libs/doggos/feature/tsconfig.spec.json",
+          "hash": "4003217966072204204"
+        }
+      ],
+      "shared-util-auth": [
+        {
+          "file": "libs/shared/util-auth/.eslintrc.json",
+          "hash": "16750365115773366446"
+        },
+        {
+          "file": "libs/shared/util-auth/README.md",
+          "hash": "1236082205817484580"
+        },
+        {
+          "file": "libs/shared/util-auth/jest.config.ts",
+          "hash": "17805988705534644968"
+        },
+        {
+          "file": "libs/shared/util-auth/project.json",
+          "hash": "13708368678377458083"
+        },
+        {
+          "file": "libs/shared/util-auth/src/index.ts",
+          "hash": "9511002588848017333"
+        },
+        {
+          "file": "libs/shared/util-auth/src/lib/auth.service.ts",
+          "hash": "6299990627107250808",
+          "deps": [
+            "npm:@angular/core",
+            "npm:angular-auth-oidc-client",
+            "shared-util-platform-information",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "libs/shared/util-auth/src/lib/container/callback/callback.component.html",
+          "hash": "3041932979515949833"
+        },
+        {
+          "file": "libs/shared/util-auth/src/lib/container/callback/callback.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "libs/shared/util-auth/src/lib/container/callback/callback.component.spec.ts",
+          "hash": "11598153808153461267",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/shared/util-auth/src/lib/container/callback/callback.component.ts",
+          "hash": "9326525885734900967",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/shared/util-auth/src/lib/guards/auth.guard.ts",
+          "hash": "1291134291298065285",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/router",
+            "npm:angular-auth-oidc-client",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "libs/shared/util-auth/src/lib/models/user-profile.ts",
+          "hash": "2288035864188974084"
+        },
+        {
+          "file": "libs/shared/util-auth/src/lib/state/auth.state.ts",
+          "hash": "15716737056902208721",
+          "deps": [
+            "npm:@ngrx/signals",
+            "npm:@angular/core",
+            "npm:@angular/router",
+            "npm:rxjs",
+            "npm:angular-auth-oidc-client",
+            "npm:@ngrx/operators"
+          ]
+        },
+        {
+          "file": "libs/shared/util-auth/src/test-setup.ts",
+          "hash": "17711435995618823417",
+          "deps": [
+            "npm:jest-preset-angular"
+          ]
+        },
+        {
+          "file": "libs/shared/util-auth/tsconfig.json",
+          "hash": "7456533757968056189"
+        },
+        {
+          "file": "libs/shared/util-auth/tsconfig.lib.json",
+          "hash": "9558018702647581490"
+        },
+        {
+          "file": "libs/shared/util-auth/tsconfig.spec.json",
+          "hash": "4003217966072204204"
+        }
+      ],
+      "shared-ui-common": [
+        {
+          "file": "libs/shared/ui-common/.eslintrc.json",
+          "hash": "15531560297735247660"
+        },
+        {
+          "file": "libs/shared/ui-common/README.md",
+          "hash": "2532171483413604080"
+        },
+        {
+          "file": "libs/shared/ui-common/jest.config.ts",
+          "hash": "13123409128067179384"
+        },
+        {
+          "file": "libs/shared/ui-common/project.json",
+          "hash": "9682505259603185854"
+        },
+        {
+          "file": "libs/shared/ui-common/src/index.ts",
+          "hash": "11182749877761531454"
+        },
+        {
+          "file": "libs/shared/ui-common/src/lib/footer/footer.component.html",
+          "hash": "2304950553662883329"
+        },
+        {
+          "file": "libs/shared/ui-common/src/lib/footer/footer.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "libs/shared/ui-common/src/lib/footer/footer.component.spec.ts",
+          "hash": "16138689727067120207",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/shared/ui-common/src/lib/footer/footer.component.ts",
+          "hash": "10575812632137899563",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/shared/ui-common/src/lib/layout/layout.component.html",
+          "hash": "17468781293937811576"
+        },
+        {
+          "file": "libs/shared/ui-common/src/lib/layout/layout.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "libs/shared/ui-common/src/lib/layout/layout.component.spec.ts",
+          "hash": "13476883277226461685",
+          "deps": [
+            "npm:@angular/core",
+            "npm:ng-mocks",
+            "npm:@angular/router",
+            "shared-util-real-time",
+            "shared-util-auth"
+          ]
+        },
+        {
+          "file": "libs/shared/ui-common/src/lib/layout/layout.component.ts",
+          "hash": "16264127199063974348",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/router",
+            "shared-util-auth",
+            "shared-util-environments",
+            "shared-util-platform-information",
+            "shared-util-real-time"
+          ]
+        },
+        {
+          "file": "libs/shared/ui-common/src/lib/navigation/navigation.component.html",
+          "hash": "2916374352092235982"
+        },
+        {
+          "file": "libs/shared/ui-common/src/lib/navigation/navigation.component.scss",
+          "hash": "12367773422419320556"
+        },
+        {
+          "file": "libs/shared/ui-common/src/lib/navigation/navigation.component.spec.ts",
+          "hash": "1499358791581558184",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "libs/shared/ui-common/src/lib/navigation/navigation.component.ts",
+          "hash": "16877981746525302454",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "libs/shared/ui-common/src/test-setup.ts",
+          "hash": "17711435995618823417",
+          "deps": [
+            "npm:jest-preset-angular"
+          ]
+        },
+        {
+          "file": "libs/shared/ui-common/tsconfig.json",
+          "hash": "8526453262384300416"
+        },
+        {
+          "file": "libs/shared/ui-common/tsconfig.lib.json",
+          "hash": "9558018702647581490"
+        },
+        {
+          "file": "libs/shared/ui-common/tsconfig.spec.json",
+          "hash": "4003217966072204204"
+        }
+      ],
+      "shared-util-platform-information": [
+        {
+          "file": "libs/shared/util-platform-information/.eslintrc.json",
+          "hash": "5653751735942335923"
+        },
+        {
+          "file": "libs/shared/util-platform-information/README.md",
+          "hash": "13492000253185360390"
+        },
+        {
+          "file": "libs/shared/util-platform-information/jest.config.ts",
+          "hash": "12804811449984351552"
+        },
+        {
+          "file": "libs/shared/util-platform-information/project.json",
+          "hash": "13062149423557532052"
+        },
+        {
+          "file": "libs/shared/util-platform-information/src/index.ts",
+          "hash": "15804649694170683406"
+        },
+        {
+          "file": "libs/shared/util-platform-information/src/lib/platform-information.service.ts",
+          "hash": "1558254360245144696",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@capacitor/core"
+          ]
+        },
+        {
+          "file": "libs/shared/util-platform-information/src/test-setup.ts",
+          "hash": "12935735732682149507",
+          "deps": [
+            "npm:jest-preset-angular"
+          ]
+        },
+        {
+          "file": "libs/shared/util-platform-information/tsconfig.json",
+          "hash": "8526453262384300416"
+        },
+        {
+          "file": "libs/shared/util-platform-information/tsconfig.lib.json",
+          "hash": "6020606002228403423"
+        },
+        {
+          "file": "libs/shared/util-platform-information/tsconfig.spec.json",
+          "hash": "7159729809249402441"
+        }
+      ],
+      "shared-util-notification": [
+        {
+          "file": "libs/shared/util-notification/.eslintrc.json",
+          "hash": "5653751735942335923"
+        },
+        {
+          "file": "libs/shared/util-notification/README.md",
+          "hash": "8413347560793881748"
+        },
+        {
+          "file": "libs/shared/util-notification/jest.config.ts",
+          "hash": "83302893538817121"
+        },
+        {
+          "file": "libs/shared/util-notification/project.json",
+          "hash": "13888461636639428980"
+        },
+        {
+          "file": "libs/shared/util-notification/src/index.ts",
+          "hash": "5886629999834728891"
+        },
+        {
+          "file": "libs/shared/util-notification/src/lib/desktop-notification.service.ts",
+          "hash": "4424689369593637902",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/shared/util-notification/src/lib/mobile-notification.service.ts",
+          "hash": "4164025284176595636",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@capacitor/toast"
+          ]
+        },
+        {
+          "file": "libs/shared/util-notification/src/lib/notification.service.ts",
+          "hash": "14085547284885224882",
+          "deps": [
+            "npm:@angular/core",
+            "shared-util-platform-information"
+          ]
+        },
+        {
+          "file": "libs/shared/util-notification/src/lib/web-notification.service.ts",
+          "hash": "18304362914332470912",
+          "deps": [
+            "npm:@angular/core",
+            "npm:ngx-toastr"
+          ]
+        },
+        {
+          "file": "libs/shared/util-notification/src/test-setup.ts",
+          "hash": "12935735732682149507",
+          "deps": [
+            "npm:jest-preset-angular"
+          ]
+        },
+        {
+          "file": "libs/shared/util-notification/tsconfig.json",
+          "hash": "8526453262384300416"
+        },
+        {
+          "file": "libs/shared/util-notification/tsconfig.lib.json",
+          "hash": "6020606002228403423"
+        },
+        {
+          "file": "libs/shared/util-notification/tsconfig.spec.json",
+          "hash": "7159729809249402441"
+        }
+      ],
+      "doggo-rating-app": [
+        {
+          "file": "apps/doggo-rating-app/.eslintrc.json",
+          "hash": "8497026111319702513"
+        },
+        {
+          "file": "apps/doggo-rating-app/jest.config.ts",
+          "hash": "16732968417939266772"
+        },
+        {
+          "file": "apps/doggo-rating-app/project.json",
+          "hash": "9846706745242502106"
+        },
+        {
+          "file": "apps/doggo-rating-app/src/app/app-routes.ts",
+          "hash": "8882892438791150392",
+          "deps": [
+            "npm:@angular/router",
+            "shared-util-auth",
+            "shared-ui-common",
+            [
+              "doggos-feature",
+              "dynamic"
+            ],
+            [
+              "about-feature",
+              "dynamic"
+            ]
+          ]
+        },
+        {
+          "file": "apps/doggo-rating-app/src/app/app.component.html",
+          "hash": "848395303240231261"
+        },
+        {
+          "file": "apps/doggo-rating-app/src/app/app.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/doggo-rating-app/src/app/app.component.spec.ts",
+          "hash": "12983036735385885401",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/router",
+            "npm:ng-mocks",
+            "shared-util-auth"
+          ]
+        },
+        {
+          "file": "apps/doggo-rating-app/src/app/app.component.ts",
+          "hash": "10385887383607897930",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@capacitor/app",
+            "shared-util-auth",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "apps/doggo-rating-app/src/app/app.config.ts",
+          "hash": "11995767288912634474",
+          "deps": [
+            "npm:@angular/common",
+            "npm:@angular/core",
+            "npm:@angular/router",
+            "shared-util-environments",
+            "npm:angular-auth-oidc-client",
+            "npm:ngx-toastr",
+            "shared-util-platform-information",
+            "npm:@angular/platform-browser"
+          ]
+        },
+        {
+          "file": "apps/doggo-rating-app/src/assets/.gitkeep",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/doggo-rating-app/src/favicon.ico",
+          "hash": "9303420814833116677"
+        },
+        {
+          "file": "apps/doggo-rating-app/src/index.html",
+          "hash": "8862066709337214769"
+        },
+        {
+          "file": "apps/doggo-rating-app/src/main.ts",
+          "hash": "14715072927147105434",
+          "deps": [
+            "npm:@angular/platform-browser",
+            "shared-util-environments",
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/doggo-rating-app/src/styles.css",
+          "hash": "5195668842064076916"
+        },
+        {
+          "file": "apps/doggo-rating-app/src/test-setup.ts",
+          "hash": "17711435995618823417",
+          "deps": [
+            "npm:jest-preset-angular"
+          ]
+        },
+        {
+          "file": "apps/doggo-rating-app/tsconfig.app.json",
+          "hash": "8365644956319658761"
+        },
+        {
+          "file": "apps/doggo-rating-app/tsconfig.editor.json",
+          "hash": "17511610827034788226"
+        },
+        {
+          "file": "apps/doggo-rating-app/tsconfig.json",
+          "hash": "15249368318232566688"
+        },
+        {
+          "file": "apps/doggo-rating-app/tsconfig.spec.json",
+          "hash": "7670846817526018622"
+        }
+      ],
+      "shared-util-real-time": [
+        {
+          "file": "libs/shared/util-real-time/.eslintrc.json",
+          "hash": "5653751735942335923"
+        },
+        {
+          "file": "libs/shared/util-real-time/README.md",
+          "hash": "15352322402019590823"
+        },
+        {
+          "file": "libs/shared/util-real-time/jest.config.ts",
+          "hash": "7199194356824045011"
+        },
+        {
+          "file": "libs/shared/util-real-time/project.json",
+          "hash": "18297158076079558047"
+        },
+        {
+          "file": "libs/shared/util-real-time/src/index.ts",
+          "hash": "15225377094572892052"
+        },
+        {
+          "file": "libs/shared/util-real-time/src/lib/services/signalr-status.service.ts",
+          "hash": "5732397418064379225",
+          "deps": [
+            "npm:@angular/core",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "libs/shared/util-real-time/src/lib/store/realtime.state.ts",
+          "hash": "13575480349287000472",
+          "deps": [
+            "npm:@ngrx/signals",
+            "npm:rxjs",
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/shared/util-real-time/src/test-setup.ts",
+          "hash": "17711435995618823417",
+          "deps": [
+            "npm:jest-preset-angular"
+          ]
+        },
+        {
+          "file": "libs/shared/util-real-time/tsconfig.json",
+          "hash": "7456533757968056189"
+        },
+        {
+          "file": "libs/shared/util-real-time/tsconfig.lib.json",
+          "hash": "6020606002228403423"
+        },
+        {
+          "file": "libs/shared/util-real-time/tsconfig.spec.json",
+          "hash": "7159729809249402441"
+        }
+      ],
+      "doggos-ui": [
+        {
+          "file": "libs/doggos/ui/.eslintrc.json",
+          "hash": "15531560297735247660"
+        },
+        {
+          "file": "libs/doggos/ui/README.md",
+          "hash": "3476791669388859006"
+        },
+        {
+          "file": "libs/doggos/ui/jest.config.ts",
+          "hash": "11021611249700601984"
+        },
+        {
+          "file": "libs/doggos/ui/project.json",
+          "hash": "8286768692915291820"
+        },
+        {
+          "file": "libs/doggos/ui/src/index.ts",
+          "hash": "690828789555298321"
+        },
+        {
+          "file": "libs/doggos/ui/src/lib/doggo-form/doggo-form.component.html",
+          "hash": "856906984899397480"
+        },
+        {
+          "file": "libs/doggos/ui/src/lib/doggo-form/doggo-form.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "libs/doggos/ui/src/lib/doggo-form/doggo-form.component.spec.ts",
+          "hash": "2771030428810119760",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/doggos/ui/src/lib/doggo-form/doggo-form.component.ts",
+          "hash": "9118940643357916655",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/forms",
+            "shared-util-camera"
+          ]
+        },
+        {
+          "file": "libs/doggos/ui/src/lib/doggo-list/doggo-list.component.html",
+          "hash": "16347148598999482680"
+        },
+        {
+          "file": "libs/doggos/ui/src/lib/doggo-list/doggo-list.component.scss",
+          "hash": "18196908607675220708"
+        },
+        {
+          "file": "libs/doggos/ui/src/lib/doggo-list/doggo-list.component.spec.ts",
+          "hash": "11335122274894694508",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/doggos/ui/src/lib/doggo-list/doggo-list.component.ts",
+          "hash": "6025950048067552191",
+          "deps": [
+            "npm:@angular/core",
+            "doggos-domain"
+          ]
+        },
+        {
+          "file": "libs/doggos/ui/src/lib/doggo-rate/doggo-rate.component.html",
+          "hash": "3316199179379403543"
+        },
+        {
+          "file": "libs/doggos/ui/src/lib/doggo-rate/doggo-rate.component.scss",
+          "hash": "15252626115082033242"
+        },
+        {
+          "file": "libs/doggos/ui/src/lib/doggo-rate/doggo-rate.component.spec.ts",
+          "hash": "14168435315816040772",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/doggos/ui/src/lib/doggo-rate/doggo-rate.component.ts",
+          "hash": "10939948749860917894",
+          "deps": [
+            "npm:@angular/animations",
+            "npm:@angular/common",
+            "npm:@angular/core",
+            "doggos-domain",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "libs/doggos/ui/src/lib/single-doggo/single-doggo.component.html",
+          "hash": "17042743539206907211"
+        },
+        {
+          "file": "libs/doggos/ui/src/lib/single-doggo/single-doggo.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "libs/doggos/ui/src/lib/single-doggo/single-doggo.component.spec.ts",
+          "hash": "13661335268053054733",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/doggos/ui/src/lib/single-doggo/single-doggo.component.ts",
+          "hash": "11467631388791641120",
+          "deps": [
+            "npm:@angular/common",
+            "npm:@angular/core",
+            "npm:@angular/router",
+            "doggos-domain"
+          ]
+        },
+        {
+          "file": "libs/doggos/ui/src/test-setup.ts",
+          "hash": "17711435995618823417",
+          "deps": [
+            "npm:jest-preset-angular"
+          ]
+        },
+        {
+          "file": "libs/doggos/ui/tsconfig.json",
+          "hash": "7456533757968056189"
+        },
+        {
+          "file": "libs/doggos/ui/tsconfig.lib.json",
+          "hash": "9558018702647581490"
+        },
+        {
+          "file": "libs/doggos/ui/tsconfig.spec.json",
+          "hash": "4003217966072204204"
+        }
+      ],
+      "shared-util-camera": [
+        {
+          "file": "libs/shared/util-camera/.eslintrc.json",
+          "hash": "5653751735942335923"
+        },
+        {
+          "file": "libs/shared/util-camera/README.md",
+          "hash": "15549047215122962174"
+        },
+        {
+          "file": "libs/shared/util-camera/jest.config.ts",
+          "hash": "11743102453846758686"
+        },
+        {
+          "file": "libs/shared/util-camera/project.json",
+          "hash": "5115934386263934583"
+        },
+        {
+          "file": "libs/shared/util-camera/src/index.ts",
+          "hash": "2360280096314002426"
+        },
+        {
+          "file": "libs/shared/util-camera/src/lib/camera.service.ts",
+          "hash": "8093163760506162481",
+          "deps": [
+            "npm:@angular/core",
+            "shared-util-platform-information",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "libs/shared/util-camera/src/lib/desktop-camera.service.ts",
+          "hash": "9901073752325736043",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "libs/shared/util-camera/src/lib/mobile-camera.service.ts",
+          "hash": "8408039839317801903",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@capacitor/camera",
+            "npm:rxjs",
+            "npm:base64-arraybuffer"
+          ]
+        },
+        {
+          "file": "libs/shared/util-camera/src/lib/utils.ts",
+          "hash": "6045166593379431591"
+        },
+        {
+          "file": "libs/shared/util-camera/src/test-setup.ts",
+          "hash": "12935735732682149507",
+          "deps": [
+            "npm:jest-preset-angular"
+          ]
+        },
+        {
+          "file": "libs/shared/util-camera/tsconfig.json",
+          "hash": "8526453262384300416"
+        },
+        {
+          "file": "libs/shared/util-camera/tsconfig.lib.json",
+          "hash": "6020606002228403423"
+        },
+        {
+          "file": "libs/shared/util-camera/tsconfig.spec.json",
+          "hash": "7159729809249402441"
+        }
+      ]
+    }
+  }
+}
